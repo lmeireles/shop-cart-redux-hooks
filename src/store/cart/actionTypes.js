@@ -1,0 +1,2 @@
+export const ITEMS_UPDATED = 'cart/ITEMS_UPDATED';
+export const TOGGLE_VISIBILITY = 'cart/TOGGLE_VISIBILITY';
